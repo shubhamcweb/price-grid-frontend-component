@@ -85,6 +85,8 @@ Also, I will now be learning how to implement responsive mobile-friendly website
 
 ## Author
 
+I am Shubham Chandravanshi, the author of this GitHub repo. I am a computer science major at The University of Texas at Arlington and am an eager learner. I am very passionate in web development, and currently learning new technologies in the field of both frontend and backend web development, and am interested and looking for remote/on-site internships in the United States of America.
+
 - LinkedIn - [Shubham Chandravanshi](https://www.linkedin.com/in/shubhamcweb)
 
 ## Acknowledgments
@@ -95,4 +97,4 @@ Here are some links if you want to see his work:
 - Website - [zachgollwitzer.com](https://zachgollwitzer.com)
 - Twitter - [@zg_dev](https://twitter.com/zg_dev)
 - YouTube - [@zachgoll](https://www.youtube.com/@zachgoll/about)
-- That above mentioned video - [Frontend Bootcamp](https://www.youtube.com/watch?v=zJSY8tbf_ys&t=58873s)
+- The above mentioned video - [Frontend Bootcamp](https://www.youtube.com/watch?v=zJSY8tbf_ys&t=58873s)
