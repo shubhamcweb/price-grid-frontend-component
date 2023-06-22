@@ -85,7 +85,9 @@ Also, I will now be learning how to implement responsive mobile-friendly website
 
 ## Author
 
-I am Shubham Chandravanshi, the author of this GitHub repo. I am a computer science major at The University of Texas at Arlington and am an eager learner. I am very passionate in web development, and currently learning new technologies in the field of both frontend and backend web development, and am interested and looking for remote/on-site internships in the United States of America.
+I am Shubham Chandravanshi, the author of this GitHub repo. I am a computer science major at The University of Texas at Arlington and am an eager learner.
+
+I am very passionate in web development, and currently learning new technologies in the field of both frontend and backend web development, and am interested and looking for remote/on-site internships in the United States of America.
 
 - LinkedIn - [Shubham Chandravanshi](https://www.linkedin.com/in/shubhamcweb)
 
