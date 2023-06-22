@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Site deployed on GitHub Page](https://your-live-site-url.com)
+- Live Site URL: [Site deployed on GitHub Page](https://shubhamcweb.github.io/price-grid-frontend-component/)
 
 ## My process
 
@@ -54,7 +54,7 @@ I got around that quirk in two ways:
 ```
 2. By putting a multiline comment in the whitespacing between larger divs to maintain readability
 ```html
-    <div>
+    <div id="bottom-left">
       .....
     </div><!-- There cannot be any whitespace or new line character between inline-block elements
   --><div id="bottom-right">
