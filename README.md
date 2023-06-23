@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshot
 
 Mobile View
-![](./mobile_view.png){width=50%}
+![](./mobile_view.png){height=20%}
 
 Desktop View
 ![](./desktop_view.png)
