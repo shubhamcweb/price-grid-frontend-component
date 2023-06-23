@@ -31,7 +31,7 @@ Mobile View
 <br><img src="./mobile_view.png" height="500px">
 
 Desktop View
-![](./desktop_view.png)
+![](./desktop_view.jpeg)
 
 ### Links
 
