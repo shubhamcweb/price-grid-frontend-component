@@ -22,12 +22,16 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 Users should be able to:
 
-- View the optimal layout for the component depending on their device's screen size (only desktop design implemented as of now)
+- View the optimal layout for the component depending on their device's screen size
 - See a hover state on desktop for the Sign Up call-to-action
 
 ### Screenshot
 
-![](./screenshot.png)
+Mobile View
+<br><img src="./mobile_view.png" height="500px">
+
+Desktop View
+![](./desktop_view.jpeg)
 
 ### Links
 
@@ -76,7 +80,7 @@ Overall, this challenge really helped me learn different concepts and usage of s
 
 After completing this project I feel I have a basic understanding of HTML and CSS and now my next goal will be to learn CSS Flexbox and Grid layouts and other CSS frameworks.
 
-Also, I will now be learning how to implement responsive mobile-friendly websites, since that is something I'm currently lacking and then hopefully move on to other challenges that will give me the opportunity to apply my knowledge in a more hands-on manner.
+Also, I will further focus on my skills to implement responsive mobile-friendly websites and then hopefully move on to other challenges that will give me the opportunity to apply my knowledge in a more hands-on manner.
 
 ### Useful resources
 
