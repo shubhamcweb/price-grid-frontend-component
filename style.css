@@ -123,3 +123,14 @@ ul li{
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
+
+@media screen and (max-width: 700px) {
+    #bottom-left, #bottom-right, #card {
+        width: 100%;
+        height: auto;
+    }
+
+    #card {
+        margin: 10vh auto 40px auto;
+    }
+}
