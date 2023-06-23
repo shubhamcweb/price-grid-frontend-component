@@ -16,50 +16,41 @@ body {
     background-color: #e5eff5;
 }
 
-#card {
-    width: 640px;
-    height: 480px;
-    margin: 20vh auto 40px auto;
+.card {
+    width: 80vw;
+    margin: 8vh auto 40px auto;
     overflow: hidden;
     border-radius: 10px;
     box-shadow: 0px 4px 24px -4px rgba(0,0,0,0.4);
 }
 
-#top-section {
+.top-section {
     width: 100%;
-    height: 45%;
     padding: 40px;
     background-color: white;
     color: #98a6bd;
 }
 
-#top-section h2 {
+.top-section h2 {
     color: #2ab2af;
     margin-bottom: 25px;
 }
 
-#top-section h4 {
+.top-section h4 {
     color: #c0df34;
     margin-bottom: 20px;
 }
 
-#bottom-section {
+.bottom-sections {
     width: 100%;
-    height: 55%;
+    height: auto;
+    padding: 40px;
     color: #e5eff5;
 }
 
-#bottom-section h4 {
+.bottom-sections h4 {
     color: white;
     margin-bottom: 20px;
-}
-
-#bottom-left, #bottom-right {
-    width: 50%;
-    height: 100%;
-    padding: 40px;
-    display: inline-block;
-    vertical-align: top;
 }
 
 #bottom-left {
@@ -124,13 +115,21 @@ ul li{
     color: hsl(228, 45%, 44%);
 }
 
-@media screen and (max-width: 700px) {
-    #bottom-left, #bottom-right, #card {
-        width: 100%;
-        height: auto;
+@media screen and (min-width: 768px) {
+    .card {
+        width: 640px;
+        height: 480px;
+        margin: 20vh auto 40px auto;
     }
 
-    #card {
-        margin: 10vh auto 40px auto;
+    .top-section {
+        height: 45%;
+    }
+
+    .bottom-sections {
+        width: 50%;
+        height: 55%;
+        display: inline-block;
+        vertical-align: top;
     }
 }
