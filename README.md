@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshot
 
 Mobile View
-<img src="./mobile_view.png" height="400px">
+<br><img src="./mobile_view.png" height="500px">
 
 Desktop View
 ![](./desktop_view.png)
